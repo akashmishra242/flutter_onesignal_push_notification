@@ -31,7 +31,11 @@
 
 [![googledrive](https://img.shields.io/badge/googledrive-DB4437?style=for-the-badge&logo=googledrive&logoColor=green)](https://drive.google.com/file/d/1lfrS-uouqzAyzeCN81vW__owPaW9NuQL/view?usp=sharing)
 
+# 🔑 License
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+  
 ---
+
 
 # 🔧 Steps for Installation
 
